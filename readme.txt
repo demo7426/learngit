@@ -1,3 +1,1 @@
-git is a distributed free software.
-:wq
-
+git is free software distributed under the GPL.
